@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Lab1\Car showroom\bin\Debug\Car showroom.exe.config
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Lab1\Car showroom\bin\Debug\Car showroom.exe
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Lab1\Car showroom\bin\Debug\Car showroom.pdb
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Lab1\Car showroom\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Lab1\Car showroom\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Lab1\Car showroom\obj\Debug\Students_Lab1.Form1.resources
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Lab1\Car showroom\obj\Debug\Car_showroom.Properties.Resources.resources
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Lab1\Car showroom\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Lab1\Car showroom\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Lab1\Car showroom\obj\Debug\Car showroom.exe
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Lab1\Car showroom\obj\Debug\Car showroom.pdb

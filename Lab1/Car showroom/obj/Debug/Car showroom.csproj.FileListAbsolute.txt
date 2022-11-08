@@ -1,0 +1,33 @@
+C:\University\SBDZ_CA\Car showroom\Car showroom\bin\Debug\Car showroom.exe.config
+C:\University\SBDZ_CA\Car showroom\Car showroom\bin\Debug\Car showroom.exe
+C:\University\SBDZ_CA\Car showroom\Car showroom\bin\Debug\Car showroom.pdb
+C:\University\SBDZ_CA\Car showroom\Car showroom\obj\Debug\Car showroom.csproj.AssemblyReference.cache
+C:\University\SBDZ_CA\Car showroom\Car showroom\obj\Debug\Car showroom.csproj.SuggestedBindingRedirects.cache
+C:\University\SBDZ_CA\Car showroom\Car showroom\obj\Debug\Car_showroom.Form1.resources
+C:\University\SBDZ_CA\Car showroom\Car showroom\obj\Debug\Car_showroom.Properties.Resources.resources
+C:\University\SBDZ_CA\Car showroom\Car showroom\obj\Debug\Car showroom.csproj.GenerateResource.cache
+C:\University\SBDZ_CA\Car showroom\Car showroom\obj\Debug\Car showroom.csproj.CoreCompileInputs.cache
+C:\University\SBDZ_CA\Car showroom\Car showroom\obj\Debug\Car showroom.exe
+C:\University\SBDZ_CA\Car showroom\Car showroom\obj\Debug\Car showroom.pdb
+C:\University\SBDZ\Car showroom\Car showroom\bin\Debug\Car showroom.exe.config
+C:\University\SBDZ\Car showroom\Car showroom\bin\Debug\Car showroom.exe
+C:\University\SBDZ\Car showroom\Car showroom\bin\Debug\Car showroom.pdb
+C:\University\SBDZ\Car showroom\Car showroom\obj\Debug\Car showroom.csproj.AssemblyReference.cache
+C:\University\SBDZ\Car showroom\Car showroom\obj\Debug\Car showroom.csproj.SuggestedBindingRedirects.cache
+C:\University\SBDZ\Car showroom\Car showroom\obj\Debug\Car_showroom.Form1.resources
+C:\University\SBDZ\Car showroom\Car showroom\obj\Debug\Car_showroom.Properties.Resources.resources
+C:\University\SBDZ\Car showroom\Car showroom\obj\Debug\Car showroom.csproj.GenerateResource.cache
+C:\University\SBDZ\Car showroom\Car showroom\obj\Debug\Car showroom.csproj.CoreCompileInputs.cache
+C:\University\SBDZ\Car showroom\Car showroom\obj\Debug\Car showroom.exe
+C:\University\SBDZ\Car showroom\Car showroom\obj\Debug\Car showroom.pdb
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Car showroom\Car showroom\bin\Debug\Car showroom.exe.config
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Car showroom\Car showroom\bin\Debug\Car showroom.exe
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Car showroom\Car showroom\bin\Debug\Car showroom.pdb
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Car showroom\Car showroom\obj\Debug\Car showroom.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Car showroom\Car showroom\obj\Debug\Car showroom.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Car showroom\Car showroom\obj\Debug\Car_showroom.Form1.resources
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Car showroom\Car showroom\obj\Debug\Car_showroom.Properties.Resources.resources
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Car showroom\Car showroom\obj\Debug\Car showroom.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Car showroom\Car showroom\obj\Debug\Car showroom.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Car showroom\Car showroom\obj\Debug\Car showroom.exe
+C:\Users\user\Desktop\SBDZ\lab1\Labs\Car showroom\Car showroom\obj\Debug\Car showroom.pdb
